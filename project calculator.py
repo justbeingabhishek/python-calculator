@@ -5,7 +5,7 @@ print ('additon is', int(a)+ int(b))
 
 print ('substraction is', int(a) - int(b))
 
-print ('additon is', int(a) * int(b))
+print ('module is', int(a) * int(b))
 
 print ('devision is ', int(a)/ int(b))
 

@@ -15,19 +15,28 @@
 #   print("Yay!")
 
 
-gender = input('enter gender')
-if gender == 'boy':
-  print ('masculine')
+# name = input ('enter name')
+# age = input ('enter age')
+# gender = input ('enter gender')
+# if (age>= "18"):
+#     print (' Congratulation,you are an adult now') 
+# else:
+#     print ('you are not an adult yet')
+# if (gender == 'male'):
+#     print  (' your nature is masculine')
+# elif (gender == 'female'):
+#     print (' your nature is feminine')
+# else:
+#     print ("Unkown gender")
 
-elif gender == 'girl':
-  print ('feminine')
 
+# a = "!abhishek!"
+# print(a.strip('!'))
+
+
+
+number = int(input('enter number'))
+if (number %2 == 0 ):
+    print ('even')
 else:
-  print('third one')
-
-
-age = input('enter age')
-if (age >= '18'):
-  print('you\'re a man\women')
-else:
- print ('you are a boy\girl')
+    print ('odd')
